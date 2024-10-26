@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|c:\\users\\user\\source\\repos\\figuras_geometricas\\figuras_geometricas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|solutionrelative:figuras_geometricas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|c:\\users\\user\\source\\repos\\figuras_geometricas\\figuras_geometricas\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|solutionrelative:figuras_geometricas\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|c:\\users\\user\\source\\repos\\figuras_geometricas\\figuras_geometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|solutionrelative:figuras_geometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|c:\\users\\user\\source\\repos\\figuras_geometricas\\figuras_geometricas\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|solutionrelative:figuras_geometricas\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|c:\\users\\user\\source\\repos\\figuras_geometricas\\figuras_geometricas\\figurasgeometricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|solutionrelative:figuras_geometricas\\figurasgeometricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|c:\\users\\user\\source\\repos\\figuras_geometricas\\figuras_geometricas\\circulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C6B3C2-0B13-44C8-9C77-D403085BF2E7}|figuras_geometricas\\figuras_geometricas.csproj|solutionrelative:figuras_geometricas\\circulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elipse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Elipse.cs",
+              "RelativeDocumentMoniker": "figuras_geometricas\\Elipse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Elipse.cs",
+              "RelativeToolTip": "figuras_geometricas\\Elipse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:12:11.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circulos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Circulos.cs",
+              "RelativeDocumentMoniker": "figuras_geometricas\\Circulos.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Circulos.cs",
+              "RelativeToolTip": "figuras_geometricas\\Circulos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:56:20.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Program.cs",
+              "RelativeDocumentMoniker": "figuras_geometricas\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Program.cs",
+              "RelativeToolTip": "figuras_geometricas\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:54:13.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Triangulo.cs",
+              "RelativeDocumentMoniker": "figuras_geometricas\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Triangulo.cs",
+              "RelativeToolTip": "figuras_geometricas\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:51:57.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "figuras_geometricas\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\Cuadrado.cs",
+              "RelativeToolTip": "figuras_geometricas\\Cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:06:03.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "figurasGeometricas.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\figurasGeometricas.cs",
+              "RelativeDocumentMoniker": "figuras_geometricas\\figurasGeometricas.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\figuras_geometricas\\figuras_geometricas\\figurasGeometricas.cs",
+              "RelativeToolTip": "figuras_geometricas\\figurasGeometricas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:54:37.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
